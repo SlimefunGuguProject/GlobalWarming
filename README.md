@@ -18,19 +18,7 @@
 
 ## 下载
 
-**自动更新**: 汉化版构建#4已包含自动更新功能，默认开启
-
-点击这里下载 GlobalWarming: [下载 GlobalWarming](https://builds.guizhanss.net/GuizhanCraft/GlobalWarming-CN/master)
-
-<p align="center">
-  <a href="https://github.com/ybw0014/GlobalWarming-CN/actions/workflows/maven.yml">
-    <img src="https://github.com/ybw0014/GlobalWarming-CN/actions/workflows/maven.yml/badge.svg" alt="Java CI"/>
-  </a>
-
-  <a href="https://builds.guizhanss.net/ybw0014/GlobalWarming-CN/master">
-    <img src="https://builds.guizhanss.net/f/ybw0014/GlobalWarming-CN/master/badge.svg" alt="Build status"/>
-  </a>
-</p>
+[下载 GlobalWarming](https://resources.guizhanss.com/plugin/GlobalWarming)
 
 ## 配置
 
